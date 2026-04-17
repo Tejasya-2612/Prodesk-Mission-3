@@ -2,6 +2,8 @@
 
 A modern and responsive web application that allows users to search for GitHub profiles and view detailed information using the GitHub API.
 
+App Link: https://comforting-cuchufli-2abcc4.netlify.app/
+
 ---
 
 ## Features
@@ -29,15 +31,14 @@ A modern and responsive web application that allows users to search for GitHub p
 
 ## Demo
 
-
+https://drive.google.com/file/d/1Fg38NOTalBWyK1BPtQZysQbHFgd08q4r/view?usp=sharing
 
 ---
 
 ## How It Works
 
 1. User enters a GitHub username
-2. App calls GitHub API:
-   https://api.github.com/users/{username}
+2. App calls GitHub API
 3. Displays profile data
 4. Fetches repositories using repos_url
 5. Shows latest 5 repositories
