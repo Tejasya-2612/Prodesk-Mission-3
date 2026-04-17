@@ -43,6 +43,11 @@ https://drive.google.com/file/d/1Fg38NOTalBWyK1BPtQZysQbHFgd08q4r/view?usp=shari
 4. Fetches repositories using repos_url
 5. Shows latest 5 repositories
 
+**Screenshots:**
+<img width="1273" height="698" alt="image" src="https://github.com/user-attachments/assets/6ec44860-fba4-496a-bc68-abbd7644611c" />
+<img width="1376" height="862" alt="image" src="https://github.com/user-attachments/assets/f900e10c-62f9-4992-9fbc-e445c6efa1ac" />
+<img width="1425" height="839" alt="image" src="https://github.com/user-attachments/assets/96f3a89e-8fc1-47c2-9a9b-407207a530d2" />
+
 ---
 
 ## Project Structure
