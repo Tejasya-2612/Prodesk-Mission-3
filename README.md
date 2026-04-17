@@ -90,7 +90,5 @@ This project is part of my internship at Prodesk IT.
 
 ---
 
-## 📬 Contact
-
-Your Name
 A TEJASYA
+P/IL/26/NOIDA/M1299
